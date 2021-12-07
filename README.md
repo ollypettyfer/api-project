@@ -1,4 +1,4 @@
-# api-project (City News and Weather App with React)
+# API-Project (City News and Weather App with React)
 
 ## MVP:
 
