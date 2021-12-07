@@ -1,10 +1,10 @@
 # API-Project (City News and Weather App with React)
 
 ## Brief 
-** Consume a public API
-** Have several components 
-** The app should have a router with several "pages".
-** Be deployed online and accessible to the public.
+* Consume a public API
+* Have several components 
+* The app should have a router with several "pages".
+* Be deployed online and accessible to the public.
 
 ## MVP:
 
