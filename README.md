@@ -2,7 +2,7 @@
 
 ## Brief 
 
-##Technical Requirements
+## Technical Requirements
 * ** Consume a public API
 * ** Have several components 
 * ** The app should have a router with several "pages".
