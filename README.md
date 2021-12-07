@@ -1,5 +1,13 @@
 # API-Project (City News and Weather App with React)
 
+## Brief 
+
+##Technical Requirements
+* ** Consume a public API
+* ** Have several components 
+* ** The app should have a router with several "pages".
+* ** Be deployed online and accessible to the public.
+
 ## MVP:
 
 - A list of news articles for 3 cities around the world using a news API.
