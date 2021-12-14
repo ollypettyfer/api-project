@@ -1,5 +1,7 @@
 # API-Project (City News and Weather App with React)
 
+## View project: https://sei-project-2-news-app.netlify.app
+
 ## Brief 
 * Consume a public API
 * Have several components 
