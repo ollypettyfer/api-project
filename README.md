@@ -13,16 +13,16 @@
 ## MVP:
 
 - A list of news articles for 3 cities around the world using a news API.
-- A desciption of the weather in each of the 3 cities using a weather API.
-- Produce an image as a background to houses the news and weather components above from a image API.
+- A description of the weather in each of the 3 cities using a weather API.
+- Produce an image as a background to house the news and weather components above from an image API.
 
-## Extra's:
+## Extras:
 
 - Search bar for cities or countries around the world.
 - An icon that changes depending on the weather description.
 - Add a time indicator for the city location.
 
-Our end goal would be to able to access all of the 500 cities and 7 contries held on the news api database. A user could imput their current location and our app would bring back the relivant data for that location.
+Our end goal would be to be able to access all of the 500 cities and 7 countries held on the news API database. A user could input their current location and our app would bring back the relevant data for that location.
 
 ## Running the app
 
@@ -30,7 +30,7 @@ To run the app you will need to run the following command in your terminal with 
 
 ### yarn add
 
-This will run and install the neccessary modules required for the app to run
+This will run and install the necessary modules required for the app to run
 
 ### yarn start
 
@@ -63,16 +63,18 @@ The extra challenge we had was bringing all the data together for three cities f
 ## What we would like to add to the project:
 
 We would like to refactor the code to make it more streamlined and remove the duplication for different cities.
-We would like to include a way to allow users to select the cities that they wish to have on their screen.
-Including weather condition symbols and local time for each city would be good.
-Some improvements to the UI, and style and lazy loading features would help to make it look more slick.
+We would like to include a way to allow users to select the cities that they wish to have on their screens.
+Including weather condition symbols and local times for each city would be good.
+Some improvements to the UI, style and lazy loading features would help to make it look slicker.
 
 ## What we learnt:
 
-Taking stock of what we learned after each step and checkign whether this changed our approach and reconsidering our assumptions would have been helpful.
+Taking stock of what we learned after each step and checking whether this changed our approach and reconsidering our assumptions would have been helpful.
 
 Planning and wireframing helps a lot but laying out the basic fundamental code to deliver those plans is also important and would have helped us ensure we were thinking about the issues practically and not just in theory.
 
 ## Would we recommend trying this?
 
 I would recommend calling data from a single API first before trying this project and then using this project as a more advanced option.
+
+
