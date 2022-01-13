@@ -2,7 +2,7 @@
 
 ## View project: https://sei-project-2-news-app.netlify.app
 
-<img width="1680" alt="Screenshot 2022-01-13 at 11 00 46" src="https://user-images.githubusercontent.com/85187554/149318455-f77b96ed-52f2-46f6-988a-edcc265f493a.png">
+<img width="1656" alt="Project 2" src="https://user-images.githubusercontent.com/85187554/149318555-7ca9a103-149e-4ab2-b7f8-0d4992f6c26b.png">
 
 ## Brief 
 * Consume a public API
