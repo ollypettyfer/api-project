@@ -65,7 +65,7 @@ We then split off to complete individual sections of the project. I focused on t
 ## Build
 
 I used Axios and a GET request to receive the data from the API.
-```javascipt
+```javascript
 import axios from "axios";
  
 const baseUrl = "https://newsapi.org/v2/everything?";
